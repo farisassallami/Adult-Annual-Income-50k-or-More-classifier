@@ -2,10 +2,10 @@
 - *Author: Faris Assallami*
 
 
-##Source of data 
+## Source of data 
 -US Census Bureau
 
-##Brief description of data 
+## Brief description of data 
 -A persons age, hours worked per week, income and occupation
 
 -The target is Income
