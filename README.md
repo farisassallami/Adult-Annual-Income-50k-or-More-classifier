@@ -1,10 +1,11 @@
 # Adult-Income
 - *Author: Faris Assallami*
 
-Dataset 2 Adult income
--Source of data -US Census Bureau
 
-Brief description of data 
+##Source of data 
+-US Census Bureau
+
+##Brief description of data 
 -A persons age, hours worked per week, income and occupation
 
 -The target is Income
