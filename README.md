@@ -1,7 +1,6 @@
 # Adult-Income
 - *Author: Faris Assallami*
 
-
 ## Source of data 
 -US Census Bureau
 
