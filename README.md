@@ -4,6 +4,10 @@
 ## Source of data 
 -US Census Bureau
 
+#  Business Problem
+
+How can we use Data Visualizations and Machine Learning to identify the key factors that impact adult income, and provide recommendations to employees in the labor market to increase their income?
+
 ## Brief description of data 
 -A persons age, hours worked per week, income and occupation
 
@@ -14,10 +18,6 @@
 -There are 15 features
 
 -There are 48842 rows
-
-#  Business Problem
-
-After exploring adult income data, I created a model that can help employees currently in the labor market increase their income.  Methods used are Data Visualizations and Machine Learning.
 
 #  Loading Data
 
